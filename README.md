@@ -5,4 +5,4 @@ This assignment was to refactor an existing webpage to make it accessible and to
 
 [Deployed application](https://johnhughes814.github.io/Week1Challenge/)
 
-![screenshot of assignment]()
+![screenshot of assignment](https://raw.githubusercontent.com/Johnhughes814/Week1Challenge/main/SS.png)
